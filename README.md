@@ -51,7 +51,7 @@ I currently work combining system implementation, full-stack development, and pr
 
 * Value Management Office (VMO) & Operational Excellence
 * Six Sigma (DMAIC) Methodologies
-* Jewelry Production Systems & Ourivesaria
+* Jewelry Production Systems & Goldsmithing
 * Software Architecture & Infrastructure
 * Electronic Document Management (GED)
 * ERP Systems & Industrial Process Optimization
