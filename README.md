@@ -21,23 +21,3 @@ Building Enterprise Software, Document Management Platforms and AI-Powered Busin
 </p>
 
 ---
-
-### Current Focus
-
-<img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" width="18"> Enterprise Applications
-
-<img src="https://cdn-icons-png.flaticon.com/512/2920/2920349.png" width="18"> Document Management (GED/ECM)
-
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="18"> ERP & CRM Integrations
-
-<img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="18"> AI Solutions (OCR • RAG • Embeddings)
-
----
-
-### Connect
-
-<p>
-<a href="https://linkedin.com/in/pedrohodesouza">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</p>
